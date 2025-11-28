@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# My Private Data Files
+scam_raw_dialogue.xlsx 
+scam_raw_dialogue.csv
